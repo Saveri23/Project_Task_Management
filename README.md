@@ -1,13 +1,13 @@
-# 📱 Project & Task Manager App
+#  Project & Task Manager App
 
-## 🚀 Overview
+##  Overview
 
 This is a full-stack **Project & Task Manager mobile application** built using React Native (Expo) and Node.js.
 It allows users to manage projects and tasks with OTP-based authentication and a clean UI.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Frontend
 
@@ -45,7 +45,7 @@ It allows users to manage projects and tasks with OTP-based authentication and a
 
 ---
 
-## 📂 Folder Structure
+##  Folder Structure
 
 ```bash
 frontend/
@@ -85,9 +85,9 @@ backend/
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
-### 🔧 Backend Setup
+###  Backend Setup
 
 ```bash
 cd backend
@@ -97,7 +97,7 @@ npm run dev
 
 ---
 
-### 📱 Frontend Setup
+###  Frontend Setup
 
 ```bash
 cd frontend
@@ -107,7 +107,7 @@ npx expo start
 
 ---
 
-## 🌐 API Configuration
+##  API Configuration
 
 Update API base URL in:
 
@@ -134,7 +134,7 @@ baseURL: "http://YOUR_IP:5000/api"
 
 ---
 
-## 📦 APK Build (Expo)
+##  APK Build (Expo)
 
 ```bash
 npm install -g eas-cli
@@ -145,7 +145,7 @@ eas build -p android --profile preview
 
 ---
 
-## 🎯 Key Highlights
+##  Key Highlights
 
 * Clean UI with dark theme
 * Proper Redux state management
@@ -154,7 +154,7 @@ eas build -p android --profile preview
 
 ---
 
-## 🚧 Challenges Faced
+##  Challenges Faced
 
 * MongoDB Atlas connection issues (DNS & Network)
 * Redux TypeScript setup
@@ -162,7 +162,7 @@ eas build -p android --profile preview
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 * Edit Project & Task
 * Due Date & Calendar
@@ -171,13 +171,13 @@ eas build -p android --profile preview
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Saveri Gavvala**
 
 ---
 
-## 📎 Submission
+##  Submission
 
 * GitHub Repository
 * APK File
