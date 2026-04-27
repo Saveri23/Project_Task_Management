@@ -6,7 +6,7 @@ This is a full-stack **Project & Task Manager mobile application** built using R
 It allows users to manage projects and tasks with OTP-based authentication and a clean UI.
 
 ---
-
+## Login with your mail id for otp 
 ##  Tech Stack
 
 ### Frontend
@@ -96,6 +96,9 @@ npm run dev
 ```
 
 ---
+.env
+your@gmail.com
+Your_password
 
 ###  Frontend Setup
 
